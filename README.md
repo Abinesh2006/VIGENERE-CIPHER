@@ -1,7 +1,7 @@
 # VIGENERE-CIPHER
 ## EX. NO: 4
-## Name : Naveen Kumar .S
-## Reg No : 212224040214
+## Name : Abinesh M
+## Reg No : 212224040009
  
 
 ## IMPLEMETATION OF VIGENERE CIPHER
